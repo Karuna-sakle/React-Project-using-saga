@@ -1,0 +1,102 @@
+.div{
+    border-radius:25px;
+    margin : 30px auto 30px auto;
+    width: 38%;
+    border-radius: 6px;
+    background-color: rgba(255, 255, 255,0.1) ;
+}
+
+.register-border{
+  margin-top:2%;
+  position: absolute;
+  top:50%;
+  left:50%;
+  transform: translate(-50%,-50%);
+    border: 2px solid rgb(18, 14, 14);
+    width: 30%;
+    padding: 25px;
+    border-radius: 25px;
+    background: #7da7ea;
+}
+  input{
+      padding: 10px;
+      border-radius: 10px;
+      margin: 5px;
+  }
+  .dashboard-container{
+      margin: none;
+      height:100%;
+  }
+  *{
+      margin:0px;
+  }
+  .heading{
+      font-style: italic;
+      padding : 26px 0px ;
+      background: #af0855;
+      color: #fff;
+
+  }
+  .left-sidebar {
+    background-image: url("https://media.istockphoto.com/photos/black-gray-satin-dark-fabric-texture-luxurious-shiny-that-is-abstract-picture-id1282398504?k=20&m=1282398504&s=612x612&w=0&h=uBOzX1ZAWP8iHX2sltS1xUEMqcUX9bQrqMjPZAdT3TE=");
+    margin-left:0px;
+    width:25%;
+    height:450px;
+    color: #fff;
+    padding: 37px 0px;
+  }
+  .sidebar-item{
+      text-align: center;
+      color:white;
+      padding : 12px;
+  }
+  .sidebar-link{
+      font-size: large;
+      color: white;
+      text-decoration: none;
+  }
+  .home-container{
+    background-color: #af0855;
+    width:'100vw';
+    height:'100vh'
+  }
+  .login-border{
+    margin-top:2%;
+    position: absolute;
+    top:50%;
+    left:50%;
+    transform: translate(-50%,-50%);
+      border: 2px solid rgb(18, 14, 14);
+      width:25%;
+      height : 300px;
+      padding: 30px;
+      border-radius: 25px;
+      background: #7da7ea;
+  }
+ .logininput{
+    padding: 15px;
+    border-radius: 10px;
+    margin: 5px;
+}
+
+
+.modal-form{
+  margin-top:2%;
+  position: absolute;
+  top:50%;
+  left:50%;
+  transform: translate(-50%,-50%);
+    border: 2px solid rgb(18, 14, 14);
+    width:25%;
+    height : 300px;
+    padding: 30px;
+    border-radius: 25px;
+    background: rgb(202, 234, 246);
+
+}
+.modal-input{
+  padding: 12px;
+  border-radius: 10px;
+  margin: 5px;
+  
+}
